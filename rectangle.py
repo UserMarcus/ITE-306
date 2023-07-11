@@ -7,3 +7,4 @@ length = float(input("Enter a given length of the rectangle: "))
 area = width * length
 
 print("Area of rectangle is = ",area)
+
